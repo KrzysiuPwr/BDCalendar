@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Darwin-clang++"
+	BuildStamp="20230929-1210-Experimental"
+	Name="MacBook-Air-Joasia.local"
+	Generator="ctest-3.22.3"
+	CompilerName="/usr/bin/clang++"
+	CompilerVersion="13.0.0.13000029"
+	OSName="macOS"
+	Hostname="MacBook-Air-Joasia.local"
+	OSRelease="11.5.1"
+	OSVersion="20G80"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="61"
+	ProcessorCacheSize="32768"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="0"
+	TotalPhysicalMemory="8192"
+	LogicalProcessorsPerPhysical="8"
+	ProcessorClockFrequency="1800"
+	>
+	<Testing>
+		<StartDateTime>Sep 29 15:50 CEST</StartDateTime>
+		<StartTestTime>1695995455</StartTestTime>
+		<TestList/>
+		<EndDateTime>Sep 29 15:50 CEST</EndDateTime>
+		<EndTestTime>1695995455</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

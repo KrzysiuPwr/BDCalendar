@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/asialalala/Programy/C++/BDCalender/BDCalendar/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/BDCalendar.exe.dir/main.cpp.o -c /Users/asialalala/Programy/C++/BDCalender/BDCalendar/main.cpp",
+  "file": "/Users/asialalala/Programy/C++/BDCalender/BDCalendar/main.cpp"
+}
+]
