@@ -1,5 +1,7 @@
 {
     "files.associations": {
         "iostream": "cpp"
-    }
+    },
+    "clang-format.executable": "/Users/asialalala/Programy/C++/BDCalender/BDCalendar/.clang-format",
+    "editor.formatOnSave": true
 }
