@@ -1,2 +1,3 @@
-msg = "GUI is awesome :)"
-print(msg)
+def GUI():
+  msg = "GUI is awesome :)"
+  print(msg) 
