@@ -1,5 +1,5 @@
 #helloEngine.py
-from Gui.helloGui import helloGui
+from Gui.helloGui import helloGui, createWindow
 from Data.helloData import helloData, readExcel
 
 def helloEngine():
@@ -12,4 +12,5 @@ helloData()
 print('===================')
 readExcel()
 print('===================')
+createWindow()
 helloEngine()
