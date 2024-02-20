@@ -1,6 +1,6 @@
 #helloEngine.py
 from Gui.helloGui import helloGui
-from Data.helloData import helloData
+from Data.helloData import helloData, readExcel
 
 def helloEngine():
   msg = "Engine unluckily sucks :("
@@ -9,4 +9,7 @@ def helloEngine():
 
 helloGui()
 helloData()
+print('===================')
+readExcel()
+print('===================')
 helloEngine()

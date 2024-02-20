@@ -12,4 +12,10 @@ def helloData():
  
     # print(dataframe1)
 
-    
+def readExcel():
+    # Wczytaj dane z pliku Excela
+    df = pd.read_excel('Data/dataBase.xlsx', index_col=0)
+
+    # Wyświetl ramkę danych
+    print("Dane z pliku Excela:")
+    print(df)
