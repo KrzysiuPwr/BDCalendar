@@ -1,4 +1,5 @@
-GUI/__pycache__
+Gui/__pycache__
 Data/__pycache__
 tk.tar.gz
 tk-0.1.0
+.DS_Store
