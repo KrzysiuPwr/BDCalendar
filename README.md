@@ -12,7 +12,9 @@ This project is a simple console output program which in near future will be enh
 
 ## Technologies
 Project is created with:
-* C++ version x
+* Python
+* Pandas
+* Custom Tkinter
 
 ## Setup
 ./BDCalendar
